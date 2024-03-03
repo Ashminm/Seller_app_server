@@ -1,0 +1,24 @@
+{
+    "catagory":[
+        {
+            "id": "1",
+            "name":"First name",
+            "thumbnail":"https://i.ytimg.com/vi/cePCCi5k7WE/maxresdefault.jpg"
+        },
+        {
+            "id": "2",
+            "name":"Second name",
+            "thumbnail":"https://i.ytimg.com/vi/cePCCi5k7WE/maxresdefault.jpg"
+        }
+    ],
+    "products":[
+        {
+            "id": 1,
+            "name":"First name",
+            "price":"1000",
+            "thumbnail":"https://i.ytimg.com/vi/cePCCi5k7WE/maxresdefault.jpg",
+            "selectCatagory": []
+
+        }
+    ]
+}
